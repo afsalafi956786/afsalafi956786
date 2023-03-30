@@ -3,7 +3,7 @@
 <h3 align="center">A passionate MERN stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-1,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=afsalafi956786&label=Profile%20views&color=0e75b6&style=flat" alt="afsalafi956786" /> </p>
+<p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kindpng.com%2Fimgv%2FwoRbTm_web-app-development-web-app-development-banner-hd%2F&psig=AOvVaw21d7hQ1BhGRVekqMtD9nUI&ust=1680260813807000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCICcrbnBg_4CFQAAAAAdAAAAABAJ" alt="afsalafi956786" /> </p>
 
 
 - 🌱 I’m currently learning **MongoDB,Javascript,Nodejs,Express,Reactjs,nextjs**
