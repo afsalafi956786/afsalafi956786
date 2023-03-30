@@ -3,7 +3,7 @@
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
 
-<p align="left"> <img src="https://www.kindpng.com/picc/m/127-1272185_web-app-development-web-app-development-banner-hd.png alt="afsalafi956786" /> </p>
+
 
 
 - 🌱 I’m currently learning **MongoDB,Javascript,Nodejs,Express,Reactjs,nextjs**
