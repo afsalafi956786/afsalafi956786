@@ -1,4 +1,4 @@
-![MasterHead](C:\Users\AfsalAfi\OneDrive\Documents\LinkedIn cover - 2.png)
+![MasterHead]("https://www.internetcreation.net/wp-content/uploads/2015/04/banner-web-development.png")
 <h1 align="center">Hi 👋, I'm Afsal PT</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
