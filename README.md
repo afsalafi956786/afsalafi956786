@@ -1,4 +1,4 @@
-![MasterHead](C:\Users\AfsalAfi\OneDrive\Documents\LinkedIn cover - 2.png)
+![MasterHead](https://media.licdn.com/dms/image/C511BAQFnmyqS8egSCg/company-background_10000/0/1583951983616/fullstack_developers_cover?e=2147483647&v=beta&t=CnW0MvORxVQ20CS-WKA0oHJxc287AEdzBCqHFQSvTHY)
 <h1 align="center">Hi 👋, I'm Afsal PT</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
