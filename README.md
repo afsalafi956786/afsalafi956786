@@ -1,4 +1,4 @@
-![MasterHead]("C:\Users\AfsalAfi\OneDrive\Documents\LinkedIn cover - 2.png")
+![MasterHead](C:\Users\AfsalAfi\OneDrive\Documents\LinkedIn cover - 2.png)
 <h1 align="center">Hi 👋, I'm Afsal PT</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
